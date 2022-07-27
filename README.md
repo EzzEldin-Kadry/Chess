@@ -1,2 +1,4 @@
 # Chess
-3D chess board game against ai
+3D chess classic board game against ai
+#Preview
+
