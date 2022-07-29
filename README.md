@@ -6,5 +6,5 @@
 ## Inside Game Preview
 ![chess preview 2](https://user-images.githubusercontent.com/110013767/181169937-7af5d052-85e3-4c9a-bfde-f07c037a1061.png)
 
-## Gameplay
+## Gameplay Preview
 ![preview](https://user-images.githubusercontent.com/110013767/181170045-6b71ad57-f179-4e58-a900-e488dd2ff556.gif)
