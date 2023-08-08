@@ -1,5 +1,5 @@
 # Chess
-3D classic chess board game against ai. implemented in (2020)
+3D classic chess board game against ai. (2020)
 
 *This project has been collaboratively created by a team of developers including me*
 
