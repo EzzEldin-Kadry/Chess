@@ -1,6 +1,10 @@
 # Chess
 3D classic chess board game against ai. implemented in (2020)
 
+*This project has been collaboratively created by a team of developers including me*
+
+
+
 ![chess preview 1](https://user-images.githubusercontent.com/110013767/181169488-2f725576-7982-4b8b-8e66-6e8b05278806.png)
 
 ## Inside Game Preview
